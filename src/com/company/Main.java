@@ -10,6 +10,7 @@ public class Main {
         log("4");
         log("5");
         log("6");
+        log("7");
     }
     static void log(String s){
         System.out.println(s);
