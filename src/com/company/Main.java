@@ -11,6 +11,7 @@ public class Main {
         log("5");
         log("6");
         log("7");
+        log("8");
     }
     static void log(String s){
         System.out.println(s);
