@@ -7,6 +7,7 @@ public class Main {
         log("Pi:"+Math.PI);
         log("1");
         log("2");
+        log("3");
     }
     static void log(String s){
         System.out.println(s);
