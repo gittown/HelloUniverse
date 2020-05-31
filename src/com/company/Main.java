@@ -9,6 +9,7 @@ public class Main {
         log("3");
         log("4");
         log("5");
+        log("6");
     }
     static void log(String s){
         System.out.println(s);
