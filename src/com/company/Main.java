@@ -8,6 +8,7 @@ public class Main {
         log("1");
         log("2");
         log("3");
+        log("4");
     }
     static void log(String s){
         System.out.println(s);
