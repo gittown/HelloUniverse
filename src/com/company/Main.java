@@ -12,6 +12,7 @@ public class Main {
         log("6");
         log("7");
         log("8");
+        log("9");
     }
     static void log(String s){
         System.out.println(s);
